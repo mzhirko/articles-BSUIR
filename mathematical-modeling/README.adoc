@@ -1,0 +1,5 @@
+= Segmentation of brain tumor multi-parametric MRI scans using artificial neural networks
+
+== Brief: In this paper, we present an automated method for brain tumor segmentation. A deep learning-based segmentation algorithm is expected to be able to solve diagnosis making, treatment planning, and resembling tasks. The automated method will help specialists to make more specific analyses in a relatively short amount of time. The analysis, made by this method is considered to have quite a good accuracy. The project is made open-source so that everyone is able to use it and do a contribution to make it better. Convolution Neural Networks (CNNs) are widely used for computer tomography (CT) images. Reliable, fast, and fully automated brain tumor segmentation is based on a Dense V-Network. An ample clinically acquired multi-parametric MRI dataset is used for the training, validation, and testing of our model. We conclude that deep-learning-based segmentation represents an acceptable method for brain tumor abdominal CT segmentation whose accuracy can surpass current methods.
+
+This paper is written in English, so no translation in there :)
